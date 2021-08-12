@@ -5,11 +5,11 @@ Info about the exercise:
     You are creating the "shopping cart experience" for a Online Marketplace.
     You have the list of the available books from the current API:
     https://striveschool-api.herokuapp.com/books
-    
+
     What you have to do is:
-    0) Get all the products from the API using a fetch +
-    1) Display the list of items available on the page using template literals `` and .forEach
-    2) Add a "add to cart button"
+    + 0) Get all the products from the API using a fetch
+    + 1) Display the list of items available on the page using template literals `` and .forEach
+    + 2) Add a "add to cart button"
     3) When the button is pressed, change the style of the item and add it to another list
     4) Add "skip" button next to each item
     5) When pressed, the button should remove from the page the item not interesting from the user
